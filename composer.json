@@ -6,12 +6,12 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
-        "symfony/framework-bundle": "^6.4 || ^7.0"
+        "symfony/framework-bundle": "^6.4 || ^7.0",
+        "ibrows/attribute-reader": "*"
     },
     "autoload": {
         "psr-4": {
-            "Ibrows\\AttributeAssociationResolver\\": "",
-            "Ibrows\\AttributeReader\\": "AttributeReader/"
+            "Ibrows\\AttributeAssociationResolver\\": ""
         }
     }
 }

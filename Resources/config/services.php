@@ -1,6 +1,5 @@
 <?php
 
-use Ibrows\AttributeReader\AttributeReader;
 use Ibrows\AttributeAssociationResolver\Reader\AssociationAttributeReader;
 use Ibrows\AttributeAssociationResolver\Resolver\Resolver;
 use Ibrows\AttributeAssociationResolver\Resolver\ResolverChain;
